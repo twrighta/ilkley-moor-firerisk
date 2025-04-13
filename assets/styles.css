@@ -1,0 +1,12 @@
+/* Some additional styling: */
+
+/* Hover effect for stats grid by class */
+.hover-stats {
+    color: black;
+    transition: color 0.3s ease;
+}
+
+.hover-stats:hover {
+    color: red;
+    font-weight: bold;
+}
