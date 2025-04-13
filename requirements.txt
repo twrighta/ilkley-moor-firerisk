@@ -4,7 +4,7 @@ dash
 dash-bootstrap-components
 dash-mantine-components
 dash-leaflet
-weighted-stats
+weightedstats
 flask-caching
 plotly
 plotly-express
